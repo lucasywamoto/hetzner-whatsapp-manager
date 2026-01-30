@@ -1,0 +1,6 @@
+@HetznerWhatsApp.Api_HostAddress = http://localhost:5003
+
+GET {{HetznerWhatsApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
